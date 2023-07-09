@@ -54,5 +54,7 @@ Paso 9 Matriz de confusión y métricas de desempeño
     accuracy                         0.8679       810
    macro avg     0.7268    0.6567    0.6647       810
 weighted avg     0.8818    0.8679    0.8629       810
+
+ CONCLUSION:
  
- 
+ Se uso el modelo CNN para el entrenamiento y se evidencio como se puede validar las diferentes imagenes del modelo y para mi parecer si fue complicado llegar a tener estos resultados talvez si nos falto mas practicas de este tipo de validaciones de imagenes para etender como funciona porque si me fue dificil entender.
